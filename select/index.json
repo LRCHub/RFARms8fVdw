@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "画脂鏤氷",
+  "base_artist": "かんてゐく",
+  "createdAt": "2026-01-11T07:31:32.715584Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "画脂鏤氷",
+      "artist": "かんてゐく, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_画脂鏤氷_かんてゐく,_初音ミク.txt"
+    }
+  ]
+}
